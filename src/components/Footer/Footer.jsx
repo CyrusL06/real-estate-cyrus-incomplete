@@ -18,7 +18,7 @@ const Footer = () => {
             <div className="fllexColStart f-right">
                 <span className='primaryText'>Information</span>
                 <div className="secondtext">
-                <span className="secondaryText">145 New York, FL 5467, USA</span>
+                <span className="secondaryText">123 British Columbia, 234F3, Canada</span>
                 </div>
                 
 
